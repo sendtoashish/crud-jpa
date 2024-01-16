@@ -1,0 +1,15 @@
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\repository\BookRepository.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\repository\StudentRepository.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\controller\StudentController.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\model\onetoone\Address.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\repository\UserRepo.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\CrudApplication.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\model\onetomany\Student.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\model\onetomany\Course.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\controller\UserResource.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\repository\CourseRepository.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\model\onetoone\User.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\model\manytoone\Book.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\repository\AuthorRepository.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\model\manytoone\Author.java
+C:\Users\gautamas\Downloads\crud_with_jpa-1\crud_with_jpa\src\main\java\com\g2it\crud\controller\BookController.java

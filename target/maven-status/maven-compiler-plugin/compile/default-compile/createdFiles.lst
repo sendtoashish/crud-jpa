@@ -1,0 +1,15 @@
+com\g2it\crud\repository\StudentRepository.class
+com\g2it\crud\repository\BookRepository.class
+com\g2it\crud\model\manytoone\Author.class
+com\g2it\crud\controller\UserResource.class
+com\g2it\crud\repository\UserRepo.class
+com\g2it\crud\model\manytoone\Book.class
+com\g2it\crud\model\onetomany\Student.class
+com\g2it\crud\CrudApplication.class
+com\g2it\crud\repository\AuthorRepository.class
+com\g2it\crud\controller\StudentController.class
+com\g2it\crud\model\onetoone\User.class
+com\g2it\crud\controller\BookController.class
+com\g2it\crud\model\onetomany\Course.class
+com\g2it\crud\model\onetoone\Address.class
+com\g2it\crud\repository\CourseRepository.class
